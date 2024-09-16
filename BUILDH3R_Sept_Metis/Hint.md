@@ -1,0 +1,1 @@
+Completed UPto `yarn deploy --network metisSepolia`
